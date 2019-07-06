@@ -1,0 +1,10 @@
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\jhaze\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
